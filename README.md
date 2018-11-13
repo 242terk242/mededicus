@@ -1,2 +1,2 @@
 # mededicus
-mededicus WIP
+MedEdicus WIP
